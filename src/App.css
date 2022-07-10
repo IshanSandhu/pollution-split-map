@@ -16,3 +16,15 @@ iframe{
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 12px;
 }
+
+@media screen and (max-width: 768px) {
+  .col-9{
+    width: 100% !important;
+  }
+
+  .info{
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+  
+}
