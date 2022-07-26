@@ -29,7 +29,7 @@ function App() {
                 Explore this map displaying NO2 pollution before and during the pandemic.
               </Card.Text>
               <br></br>
-              <Card.Link href="https://code.earthengine.google.com/a01831b73728c90e81ae816802ad8419">Earth Engine Code</Card.Link>
+              <Card.Link href="https://code.earthengine.google.com/107eb89b2fed47c863c575946320e6de">Earth Engine Code</Card.Link>
               <br></br>
               <Card.Text>View the javascript used to render the data inside the interactive split map.
               </Card.Text>
