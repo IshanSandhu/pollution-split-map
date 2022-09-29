@@ -14,7 +14,7 @@ function App() {
         src="https://ishan.users.earthengine.app/view/no2"
         title="Earth Engine App"
         width="100%"
-        height={600}
+        height={680}
         allowfullscreen
 
         ></iframe>
