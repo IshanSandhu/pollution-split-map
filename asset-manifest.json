@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pollution-split-map/static/css/main.21fad5e6.css",
-    "main.js": "/pollution-split-map/static/js/main.153bba5e.js",
+    "main.css": "/pollution-split-map/static/css/main.25eda794.css",
+    "main.js": "/pollution-split-map/static/js/main.ca0ccfed.js",
     "static/js/787.2abfabcb.chunk.js": "/pollution-split-map/static/js/787.2abfabcb.chunk.js",
     "index.html": "/pollution-split-map/index.html",
-    "main.21fad5e6.css.map": "/pollution-split-map/static/css/main.21fad5e6.css.map",
-    "main.153bba5e.js.map": "/pollution-split-map/static/js/main.153bba5e.js.map",
+    "main.25eda794.css.map": "/pollution-split-map/static/css/main.25eda794.css.map",
+    "main.ca0ccfed.js.map": "/pollution-split-map/static/js/main.ca0ccfed.js.map",
     "787.2abfabcb.chunk.js.map": "/pollution-split-map/static/js/787.2abfabcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21fad5e6.css",
-    "static/js/main.153bba5e.js"
+    "static/css/main.25eda794.css",
+    "static/js/main.ca0ccfed.js"
   ]
 }
